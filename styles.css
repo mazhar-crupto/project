@@ -13,7 +13,7 @@ body{
 section{
     background-color: gray;
     width: 400px;
-    height: 150px;
+    height: 170px;
     padding: 10px 120px;
     border: 1px solid black;
     border-radius: 50px;
@@ -28,3 +28,20 @@ section{
     font-size: 2.5rem;
     color: indianred;
 }
+
+div{
+    font-size: 1.2rem;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    font-weight: 600;
+}
+
+.user{
+    padding-bottom: 10px;
+    
+}
+
+.mail{
+    padding-bottom: 10px;
+}
+
